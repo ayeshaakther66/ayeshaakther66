@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayeshaakther66
+- 👋 Hi, I’m Ayesha
 - 👀 I’m still exploring what interests me
-- 🌱 I’m currently learning c#, sql
-- 📫 How to reach me: @ayesha_akther66 on insta
+- 🌱 I’m currently learning c#
+- 📫 How to reach me: on instagram: ayesha_akther66 
