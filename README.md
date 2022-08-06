@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Ayesha
-- 👀 I’m still exploring what interests me
-- 🌱 I’m currently learning c#
-- 📫 How to reach me: on instagram: ayesha_akther66 
+Hello, I am Ayesha Akther, currently a 2nd year studying Computer Science majoring in Software Development at Swinburne Univerisity of Technology
